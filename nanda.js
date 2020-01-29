@@ -91,7 +91,7 @@ timer.addClass('hidden');
 }
 
 function gotolinkcountdown(){
-var countDown = 3;
+var countDown = 0;
 gotolink.removeClass('hidden');
 var x = setInterval(function() {
 
