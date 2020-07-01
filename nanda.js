@@ -78,7 +78,7 @@ timer = $('#timer');
 
 if ($.urlParam('o') != null){
 timer.pietimer({
-timerSeconds: 12,
+timerSeconds: 15,
 color: '#03a9f4',
 fill: false,
 showPercentage: true,
